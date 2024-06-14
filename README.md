@@ -1,2 +1,0 @@
-# Eatty
- WebApp Project

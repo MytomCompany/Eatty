@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\study projecct\\Eatty\\Eatty.csproj",
+      "projectUniqueName": "D:\\study projecct\\Eatty\\Eatty\\Eatty.csproj",
       "projectName": "Eatty",
-      "projectPath": "D:\\study projecct\\Eatty\\Eatty.csproj",
+      "projectPath": "D:\\study projecct\\Eatty\\Eatty\\Eatty.csproj",
       "packagesPath": "C:\\Users\\srimped\\.nuget\\packages\\",
-      "outputPath": "D:\\study projecct\\Eatty\\obj\\",
+      "outputPath": "D:\\study projecct\\Eatty\\Eatty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\srimped\\AppData\\Roaming\\NuGet\\NuGet.Config"
