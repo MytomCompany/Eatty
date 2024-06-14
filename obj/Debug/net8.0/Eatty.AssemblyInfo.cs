@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eatty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0af1030e0dc42556213488d0d22f4c01f01b09a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0d01983e2edf7ff461200095cd8d6b2c419cf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eatty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eatty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
