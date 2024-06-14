@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Học\\Dot Net\\Eatty\\Eatty.csproj": {}
+    "D:\\study projecct\\Eatty\\Eatty.csproj": {}
   },
   "projects": {
-    "D:\\Học\\Dot Net\\Eatty\\Eatty.csproj": {
+    "D:\\study projecct\\Eatty\\Eatty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Học\\Dot Net\\Eatty\\Eatty.csproj",
+        "projectUniqueName": "D:\\study projecct\\Eatty\\Eatty.csproj",
         "projectName": "Eatty",
-        "projectPath": "D:\\Học\\Dot Net\\Eatty\\Eatty.csproj",
-        "packagesPath": "C:\\Users\\tueco\\.nuget\\packages\\",
-        "outputPath": "D:\\Học\\Dot Net\\Eatty\\obj\\",
+        "projectPath": "D:\\study projecct\\Eatty\\Eatty.csproj",
+        "packagesPath": "C:\\Users\\srimped\\.nuget\\packages\\",
+        "outputPath": "D:\\study projecct\\Eatty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tueco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\srimped\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
